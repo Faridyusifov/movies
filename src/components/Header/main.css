@@ -1,0 +1,48 @@
+.header{
+    padding: 20px 0;
+}
+.header_content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_logo{
+    padding: 10px;
+    background-color: #fff;
+    color: #000;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.header_logo span{
+    color: #2fa689;
+}
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.navbar_item_link{
+    color: #fff;
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+.navbar_item_link:hover{
+    color: #00c9ff;
+}
+
+
+.section_header{
+    padding-bottom: 30px;
+}
+.section_header_head{
+    font-size: 32px;
+}
+
+
+
+
